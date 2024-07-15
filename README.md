@@ -11,4 +11,4 @@ This program recreates a character movement in a 2D videogame. The sprites for t
 
 A Jar file is included in the "/jar" folder inside project's directory.
 
--JDK Version: 1.8-
+-JDK 1.8-
