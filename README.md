@@ -7,7 +7,7 @@ This program simulates character movement in a 2D video game, utilizing sprites 
  * Game Loop: Continuously renders and updates frames and images to create a nice gameplay experience.
  * User Interface: Incorporates a panel and a main frame for game management.
  * Collision Detection: Implements rectangular hitboxes for both the character and the map, ensuring realistic interactions. The character's hitbox "bounces" off walls and the floor, enhancing the game's physical dynamics.
- * 
+
 A Jar file is included in the "/jar" folder inside project's directory.
 -JDK 1.8-
 
