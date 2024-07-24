@@ -1,3 +1,5 @@
+# 2D Videogame Character
+
 This program recreates a character movement in a 2D videogame. The sprites for the character were taken from https://itch.io/game-assets/free.
 
  * The window runs through a game loop that renders and update the frames and images.
