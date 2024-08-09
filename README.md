@@ -11,7 +11,7 @@ This program simulates character movement in a 2D video game, utilizing sprites 
 A Jar file is included in the "/jar" folder inside project's directory.
 
 
-. JDK 1.8
+- JDK 1.8
 
 
 ## Screenshots
